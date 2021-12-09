@@ -1,0 +1,93 @@
+body{
+    background-color: #fcebdf;
+}
+#navbara{
+  background-color:#e4cdbc;
+  
+  
+}
+#navlinks a{
+    color:black;
+    
+}
+#navlinks a:hover{
+    color:rgb(235, 69, 4);
+    border-bottom: 1px solid;
+}
+
+
+
+    
+
+#name{
+    color:rgb(235, 69, 4);
+}
+#textimg{
+    width:60%;
+}
+
+#bg-imgs{
+    display: flex;
+    background-image:url(a.jpg);
+    background-size: cover;
+    height: 600px;
+    background-position: 70% 50%;
+    align-items: center;
+    /* filter: brightness(50%); */
+    filter: opacity(90%);
+}
+.text{
+   color: rgb(53, 47, 35);
+   
+   
+   
+}
+#cards{
+    background-color:#f1dccc ;
+}
+#childimg{
+    opacity: 80%;
+}
+
+#contact{
+    background-color: #f1dccc;
+    padding: 60px;
+    margin-bottom: 20px;
+    display: flex;
+}
+#contact-a p a{
+    text-decoration: none;
+    color: black;
+}
+#contact-a p a:hover{
+    border-bottom: 1px solid;
+    color:gray;
+}
+.btn-a{
+   padding: 5px 20px;
+   background-color:#f1dccc ;
+   border-color: rgb(172, 143, 101);
+   margin-bottom:0px;
+   
+}
+.btn-a a{
+    text-decoration: none;
+    color: black;
+
+
+}
+.masood{
+    text-align: center;
+    font-size: small;
+    margin-bottom: 10px;
+}
+.masood:hover{
+    opacity: 0.6;
+}
+#ins{
+    opacity: 0.5;
+}
+#ins:hover{
+    opacity: 0.6;
+
+}
